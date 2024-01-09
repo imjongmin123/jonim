@@ -16,13 +16,6 @@
 ## 📈 GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=jonim&show_icons=true&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/[your_username])
-
-
-
-## 📚 최근 활동
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📫 연락하기
 - 이메일: [이메일 주소]
