@@ -12,7 +12,7 @@
 - **백엔드**: Node.js, Express.js, MongoDB
 - **도구**: Git, GitHub, Visual Studio Code
 
-![Profile views](https://gpvc.arturio.dev/[jonim])
+![Profile views](https://gpvc.arturio.dev/[imjongmin123])
 
 
 ## 📈 GitHub 통계
