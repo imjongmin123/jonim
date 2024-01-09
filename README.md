@@ -16,6 +16,7 @@
 ## 📈 GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=jonim&show_icons=true&theme=radical)
 
+![jonim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonim&show_icons=true&theme=radical)
 
 ## 📫 연락하기
 - 이메일: [이메일 주소]
