@@ -13,7 +13,7 @@
 - **도구**: Git, GitHub, Visual Studio Code
 
 ## 📈 GitHub 통계
-![GitHub 통계](https://github-readme-stats.vercel.app/api?jonim=yourusername&show_icons=true&theme=radical)
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=jonim&show_icons=true&theme=radical)
 
 ## 📚 최근 활동
 <!--START_SECTION:activity-->
