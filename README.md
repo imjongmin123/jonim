@@ -11,7 +11,9 @@
 - **프론트엔드**: HTML, CSS, JavaScript, React.js
 - **백엔드**: Node.js, Express.js, MongoDB
 - **도구**: Git, GitHub, Visual Studio Code
-- 
+
+## 📈 GitHub 통계
+![GitHub 통계](https://github-readme-stats.vercel.app/api?jonim=yourusername&show_icons=true&theme=radical)
 
 ## 📚 최근 활동
 <!--START_SECTION:activity-->
