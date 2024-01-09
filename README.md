@@ -16,7 +16,7 @@
 ## 📈 GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=jonim&show_icons=true&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[jonim]&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[imjongmin123]&show_icons=true)
 
 
 ## 📚 최근 활동
