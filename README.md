@@ -12,11 +12,12 @@
 - **백엔드**: Node.js, Express.js, MongoDB
 - **도구**: Git, GitHub, Visual Studio Code
 
-![Profile views](https://gpvc.arturio.dev/[imjongmin123])
-
 
 ## 📈 GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=jonim&show_icons=true&theme=radical)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[jonim]&show_icons=true)
+
 
 ## 📚 최근 활동
 <!--START_SECTION:activity-->
